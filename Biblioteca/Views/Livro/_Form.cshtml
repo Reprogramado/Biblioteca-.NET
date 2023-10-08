@@ -1,0 +1,28 @@
+﻿@using Biblioteca.Models;
+@model Livro
+
+<form asp-action="Cadastrar">
+    
+<div class="mb-3">
+    <label asp-for="Titulo"></label>
+    <input asp-for="Titulo" class="form-control" />
+</div>
+<div class="mb-3">
+    <label asp-for="Autor"></label>
+    <input asp-for="Autor" class="form-control" />
+</div>
+
+<div class="mb-3">
+    <label asp-for="DataPublicacao"></label>
+    <input asp-for="DataPublicacao" class="form-control" />
+</div>
+<div class="mb-3">
+    <label asp-for="Tipo"></label>
+    <select asp-for="Tipo" asp-items="@Html.GetEnumSelectList<GeneroLivro>()" class="form-select">
+        <option>Selecione</option>
+    </select>
+</div>
+
+
+<button class="btn btn-primary">Cadastrar</button>
+</form>

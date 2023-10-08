@@ -1,0 +1,16 @@
+﻿@using Biblioteca.Models;
+@model Livro
+
+@{
+    ViewData["Title"] = "Editar";
+}
+
+<h1>Editar Livro</h1>
+
+<a asp-action="index">Livros</a>
+<form asp-action="Editar">
+ 
+    <partial name="_Form"></partial>
+
+    <button type="submit" class="btn btn-primary">Editar</button>
+</form>
