@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "H8Fh+ai344/yXwWk15UR8A8MGK1UcUwB5rwnimjL5uQ=",
+  "Hash": "M+QI0sV9uQm3s24xL0TXR07hwDBQ3rKDdhDrXLCZ2Rs=",
   "Source": "Biblioteca",
   "BasePath": "_content/Biblioteca",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\dani0\\Desktop\\cSharp\\projetos\\Biblioteca\\Biblioteca\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Biblioteca.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\dani0\\Desktop\\cSharp\\projetos\\Biblioteca\\Biblioteca\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dani0\\Desktop\\cSharp\\projetos\\Biblioteca\\Biblioteca\\wwwroot\\",
+      "BasePath": "_content/Biblioteca",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
       "Identity": "C:\\Users\\dani0\\Desktop\\cSharp\\projetos\\Biblioteca\\Biblioteca\\wwwroot\\css\\site.css",
