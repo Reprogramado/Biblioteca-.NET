@@ -1,5 +1,11 @@
 <h1 align="center"> Biblioteca-.NET </h1>
 <p align="center"> Biblioteca com CURD + algumas funcionalidades em .NET MVC<br/></p>
+
+
+<p align="center">
+  <img src=".github/preview.jpg" width="100%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
